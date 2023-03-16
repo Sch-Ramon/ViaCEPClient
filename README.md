@@ -15,8 +15,3 @@ O programa possui tratamentos de exceção para possíveis erros na conexão com
 Como usar
 Para utilizar o programa, basta executar a classe ViaCEPClient em uma IDE Java ou através do comando java ViaCEPClient em um terminal. O programa exibirá um menu com as opções disponíveis e guiará o usuário durante a interação.
 
-Dependências
-O programa utiliza a classe HttpClient da biblioteca padrão do Java 11 para realizar as requisições HTTP. Não são necessárias outras dependências além do próprio JDK.
-
-Contribuições
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão, sinta-se à vontade para abrir uma issue ou submeter um pull request.
